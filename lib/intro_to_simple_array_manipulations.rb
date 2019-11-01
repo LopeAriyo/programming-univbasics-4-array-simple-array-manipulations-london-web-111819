@@ -36,7 +36,7 @@ end
 
 def using_concat (array_one, array_two)
 
-  #array.shift
+  array.join(" ")
 
 end
 
