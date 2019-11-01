@@ -48,7 +48,7 @@ end
 
 def using_uniq (array)
 
-  #array.shift
+  array.uniq
 
 end
 
