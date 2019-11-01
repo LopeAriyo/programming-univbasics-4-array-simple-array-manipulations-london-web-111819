@@ -42,7 +42,7 @@ end
 
 def using_insert (array, element)
 
-  #array.shift
+  array.insert(element)
 
 end
 
