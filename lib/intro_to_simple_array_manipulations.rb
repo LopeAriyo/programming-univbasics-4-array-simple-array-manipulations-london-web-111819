@@ -54,6 +54,6 @@ end
 
 def using_flatten (array)
 
-  #array.shift
+  array.flatten
 
 end
